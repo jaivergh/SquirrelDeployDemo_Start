@@ -1,5 +1,7 @@
 # SquirrelDeployDemo_Start
 Desktop deployment example
+
+
 Search for squirrel.windows in Nuget Package Manager
 
 install nuget manager from windows store
