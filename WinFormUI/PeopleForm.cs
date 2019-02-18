@@ -72,6 +72,7 @@ namespace WinFormUI
 
             firstNameText.Text = "";
             lastNameText.Text = "";
-        }
+			LoadPeopleList();
+		}
     }
 }
